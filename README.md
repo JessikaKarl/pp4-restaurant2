@@ -29,3 +29,5 @@
 ### Unfixted Bugs 
 ## Deployment 
 ## Credits 
+* [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+* [Figma](https://www.figma.com/) for creating the wireframe
