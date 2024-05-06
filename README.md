@@ -28,6 +28,15 @@ Nola's Afternoon tea is a restaurant that serves Afternoon tea at any time of th
 ### Validator Testing 
 ### Unfixted Bugs 
 ## Deployment 
+The website is deployed to GitHub pages. This is how I deployed:
+
+- Go to GitHub repository and click on the setting tab.
+- To the left side there is a menu. Click on pages.
+- Go to the heading called Branch. Select branch to main and select folder to root. When done click Save.
+- Now the website is deployed.
+
+The live link can be found here -
+
 ## Credits 
 * [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 * [Figma](https://www.figma.com/) for creating the wireframe
