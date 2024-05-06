@@ -1,6 +1,6 @@
 # Project Portfolio 4
 ## Nolas Afternoon tea
-
+Nola's Afternoon tea is a restaurant that serves Afternoon tea at any time of the day. Visit us by booking a table. On the website you can see the menu, find information about where the restaurant is, opening hours, contact information and book a table. You create an account/user, log in and there you can book a table and review your reservation.
 ## Design 
 ### Colours 
 ![Colours](<img width="698" alt="pp4-colours" src="https://github.com/JessikaKarl/pp4-restaurant2/assets/147527640/d99e5d6c-98c1-4015-a250-45279610848b">
