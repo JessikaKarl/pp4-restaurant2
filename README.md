@@ -1,7 +1,10 @@
 # Project Portfolio 4
 ## Nolas Afternoon tea
+
 ## Design 
 ### Colours 
+![Colours](<img width="698" alt="pp4-colours" src="https://github.com/JessikaKarl/pp4-restaurant2/assets/147527640/830251f7-b871-40cc-85bb-19707e167d87">
+)
 ### Typography 
 ### Wireframes
 ![Wireframe](<img width="372" alt="pp4-wireframe1" src="https://github.com/JessikaKarl/pp4-restaurant2/assets/147527640/b3dc2167-ec02-4e9b-960f-321b25d3e530">
